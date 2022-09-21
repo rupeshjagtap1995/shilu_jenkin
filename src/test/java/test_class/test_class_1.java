@@ -2,7 +2,9 @@ package test_class;
 
 import org.testng.annotations.Test;
 
-public class test_class_1 {
+import base_class.Base_class;
+
+public class test_class_1 extends Base_class {
 	
 	
 
